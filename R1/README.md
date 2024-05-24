@@ -9,7 +9,8 @@
 - Hugging Face 介紹
   - [🤗 Hugging Face NLP Course（chapter 0 & chapter 1）](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
     - **chapter 0. SETUP**｜如何在 Colab 與自己的裝置上，使用 python 安裝 transformers
-    - **chapter 1. TRANSFORMER MODELS**｜了解如何使用 transformers 套件以及 NLP 常見任務
+    - **chapter 1. TRANSFORMER MODELS**｜了解如何使用 transformers `pipeline` 以及 NLP 常見任務
+    - **chapter 2. USING 🤗TRANSFORMERS**｜（Optinoal）作業需要，了解如何使用 transformers
     
 - RAG 在保險領域的應用
   - [Retrieval-Augmented Generation in Insurance: Enhancing Accuracy, Efficiency, and Customer Experience](https://ingestai.io/blog/rag-in-insurance#title2)

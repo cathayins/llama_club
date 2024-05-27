@@ -1,8 +1,9 @@
 ### R1：Introduction to LLM & RAG
 
 ##### 參考資料
-- GenAI & LLM 介紹（30 min）
+- GenAI & LLM 介紹（40 min）
   - [什麼是生成式人工智慧](https://www.youtube.com/watch?v=JGtqpQXfJis)
+  - [Introduction to Large Language Models](https://youtu.be/RBzXsQHjptQ?si=fgLAPoen3revkFoI)
 - RAG 介紹（20 min）
    - [What is Retrieval-Augmented Generation](https://www.youtube.com/watch?v=T-D1OfcDW1M)
    - [為什麼要用 RAG？不用微調模型就能低成本讓 LLM 理解專業知識的 AI 技術](https://tw.alphacamp.co/blog/what-is-rag-ai-technology-and-how-does-retrieval-augmented-generation-work)

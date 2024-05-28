@@ -23,12 +23,13 @@
 基於提供的資料集，使用 Embedding Cosine Similarity 檢索參考資料，再透過 LLM 生成答案。</p>
 
 1. Baseline
+   - 將 demo 中的資料，替換成我們提供 or 自己的資料集
    - 能夠檢索相似資料
    - 基於檢索的資料進行回答
 2. Advanced（Optional）
    - Embedding 怎麼儲存？每次都要重新計算嗎？
+   - 該如何處理太久以前的歷史資料？
    - 利用 Gradio or Hugging Face Spaces 部署、分享 Chatbot
-
 
 
 繳交方式：上傳至 Github `./R1/R1-HW.ipynb`

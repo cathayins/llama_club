@@ -1,4 +1,6 @@
 ### R1：Introduction to LLM & RAG
+[課程回放連結](https://youtu.be/kS1EbcfDlVE?si=Uyt3iXSDPY22nT6l)
+
 
 ## **參考資料**
 - GenAI & LLM 介紹（40 min）

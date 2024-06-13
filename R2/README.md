@@ -1,4 +1,6 @@
 # Round 2：Prompt Engineering
+[讀書會回放連結](https://youtu.be/JrjufPdeQuM)
+
 
 ## **目標**
 - 介紹 Prompt Engineering 以及優化方式

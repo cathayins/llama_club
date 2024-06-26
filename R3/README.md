@@ -1,4 +1,4 @@
-# Round 2：Prompt Engineering
+# Round 3：Semantic Search
 
 ## **目標**
 - 如何把文本轉向量後(含文本切分方式)，存放至向量資料庫，並計算文本之間的相似度
@@ -23,11 +23,11 @@
 
 ## **作業：資訊擷取實作**
 參考 `R3-Langchain-Tutorial.ipynb`</p>
-pass</p>
+利用 Langchain 的 document_loaders, embeddings, vectorstores 等實作簡單的 RAG。</p>
 
 1. Baseline
-   - pass
-2. Advanced（Optional）
-   - pass
+   - 將第一次作業的 QA 檢索聊天機器人，重新透過 LangChain 進行實作
+2. Advance
+   - 測試不同的 Chunk 大小，對於答案生成的影響
 
 繳交方式：上傳至 Github `./R3/R3-HW.ipynb`

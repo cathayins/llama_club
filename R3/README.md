@@ -1,5 +1,7 @@
 # Round 3：Semantic Search
 
+[讀書會回放連結](https://youtu.be/ifIjFd0Pgz4)
+
 ## **目標**
 - 如何把文本轉向量後(含文本切分方式)，存放至向量資料庫，並計算文本之間的相似度
 

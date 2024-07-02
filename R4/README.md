@@ -18,8 +18,10 @@
 - [QLoRA: 4bit量化+LoRA训练=瞬间起飞 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/634256206)
 
 ## 程式碼範例
-- To be uploaded
+- R4-Langchain_Tutorial.ipynb
 
 ## 作業
-- To be uploaded
+- 目標
+    1. 請嘗試將下方語料庫中的文本透過量化技術轉為 embedding，並放入資料庫
+    2. 檢索與 "怎麼提升模型效度" 最相關的10個文本以及相似度的分數(距離)
 - 繳交方式：上傳至 Github `./R4/R4-HW.ipynb`

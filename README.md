@@ -15,8 +15,8 @@
 - R1(5/31): RAG架構，介紹大型語言模型
 - R2(6/14): Prompt Engineering
 - R3(6/28): Semantic Search
-- R4(7/12): Retrieval Augmented Generation
-- R5(7/26): 模型的高效服務和量化
+- R4(7/12): 模型的高效服務和量化
+- R5(7/26): RAG優化策略
 - R6(8/9): 進階議題, 如護欄, Fine-tuning, ..., etc.
 
 ## 方式

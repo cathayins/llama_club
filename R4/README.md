@@ -1,5 +1,6 @@
 # Round 4：模型的高效服務和量化
 
+[讀書會回放連結](https://youtu.be/Ia239rEoU1o?si=aP41fDc_dQiAZs35)
 
 ## 目標
 - 掌握讓模型高效服務的技巧

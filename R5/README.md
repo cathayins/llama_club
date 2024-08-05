@@ -1,5 +1,7 @@
 # Round 5：RAG的優化策略
 
+**<span style="color: red;">R5 因設備問題，無提供影片回放連結，僅提供 Slide！</span>**
+
 ## 目標
 - 串接整個 RAG 的流程
 - 掌握 RAG 的優化方式

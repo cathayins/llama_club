@@ -1,4 +1,5 @@
 # Round 6：RAG的進階議題
+[讀書會影片回放連結](https://youtu.be/E6kj8WaZlzQ)
 
 ## 目標
 - 了解 RAG 的進階應用議題

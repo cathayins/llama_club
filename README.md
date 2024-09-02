@@ -1,3 +1,5 @@
+[20240829 期末發表專案分享會錄影回放](https://youtu.be/oIlNuA_iDJ8?si=BtuubenGz6Mkph77)
+
 # llama_club
 這是國泰產險 數據部 大型語言模型讀書會的知識庫，如果有任何問題請與籌辦團隊聯繫
 - [royalucifer](https://github.com/royalucifer)
